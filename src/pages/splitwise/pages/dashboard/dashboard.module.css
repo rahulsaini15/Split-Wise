@@ -1,0 +1,14 @@
+.container {
+  background-color: white;
+  width: 95%;
+}
+
+.innerContainer {
+  /* width: 50%; */
+  height: 100%;
+}
+
+.statusContainer {
+  display: flex;
+  width: 100%;
+}
